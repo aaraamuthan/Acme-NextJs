@@ -9,7 +9,6 @@ import {
   LatestInvoicesSkeleton,
   RevenueChartSkeleton,
 } from '@/app/ui/skeletons';
-import '@/app/ui/global.css';
 
 export default async function Page() {
   return (
